@@ -6,7 +6,7 @@
     - Spyder    
     - Visual Studio Code
     - Jupyter Lab/Jupyter Note Book
-    - .. etc
+    - ... etc
 - Markdown language basic commands
     - 6 Types of Headings
     - Emphasis(Bold,italic and Strike out)
